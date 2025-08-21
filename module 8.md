@@ -315,7 +315,7 @@ int main()
 
 ## Output:
 
-![alt text](image-10.png)
+![alt text](./outputs/image-10.png)
 
 
 
@@ -372,7 +372,7 @@ int main()
 
 ## Output:
 
-![alt text](image-11.png)
+![alt text](./outputs/image-11.png)
 
 
 

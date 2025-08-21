@@ -59,7 +59,7 @@ int main()
 
 ## Output:
 
-![alt text](image.png)
+![alt text](./outputs/image.png)
 
 
 ## Result:

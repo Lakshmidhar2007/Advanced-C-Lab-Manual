@@ -51,7 +51,7 @@ int main()
 
 ## Output:
 
-![alt text](image-1.png)
+![alt text](./outputs/image-1.png)
 
 
 

@@ -71,11 +71,11 @@ int main()
 ## Output:
 
 
-![alt text](image-5.png)
+![alt text](./outputs/image-5.png)
 
-![alt text](image-6.png)
+![alt text](./outputs/image-6.png)
 
-![alt text](image-7.png)
+![alt text](./outputs/image-7.png)
 
 
 
@@ -135,7 +135,7 @@ int main()
 
 ## Output:
 
-![alt text](image-8.png)
+![alt text](./outputs/image-8.png)
 
 
 
@@ -257,7 +257,7 @@ int main()
 
 ## Output:
 
-![alt text](image-9.png)
+![alt text](./outputs/image-9.png)
 
 
 
